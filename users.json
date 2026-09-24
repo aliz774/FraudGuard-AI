@@ -1,0 +1,37 @@
+{
+  "analyst1": {
+    "password_hash": "pbkdf2:sha256:100000$e7d19aad6da4bd2ca7a06e9c220b24b9$78b043b1336274355e2c933a752d46a9dfd25b4cd42901093d0e5f2c80a9c4a7",
+    "email": "analyst1@fraudguard.ai",
+    "role": "fraud_analyst",
+    "created_at": "2026-03-04T09:29:47.994658",
+    "last_login": "2026-09-24T11:11:51.983317"
+  },
+  "analyst2": {
+    "password_hash": "20249749412d73a3f5799f6f1dcf910e7b4aa3ce4de133b1f8a63c044792a4e9",
+    "email": "analyst2@fraudguard.ai",
+    "role": "fraud_analyst",
+    "created_at": "2026-03-04T09:29:48.019658",
+    "last_login": null
+  },
+  "manager": {
+    "password_hash": "pbkdf2:sha256:100000$daa775b87ec211a0f6014bd77a709902$111d1168ea2c7a9ffb8d6e0f603494015d2db361036a506805e1af3a387d940a",
+    "email": "manager@fraudguard.ai",
+    "role": "manager",
+    "created_at": "2026-03-04T09:29:48.047380",
+    "last_login": "2026-09-24T11:27:26.191568"
+  },
+  "admin": {
+    "password_hash": "pbkdf2:sha256:100000$210488f00eaf0c9b0d6c1cca2e5896e7$4e0e103b22157781733c1cfc2212cc176cfc2b95b6405a265964ac8606349f6b",
+    "email": "admin@fraudguard.ai",
+    "role": "admin",
+    "created_at": "2026-03-04T09:29:48.087689",
+    "last_login": "2026-09-24T09:38:31.378475"
+  },
+  "funny": {
+    "password_hash": "59b8ab2e2aa165ac21e8867a61a2f344dd581c679f0c169bd2205808b1445226",
+    "email": "mrfunny@gmail.com",
+    "role": "manager",
+    "created_at": "2026-09-01T09:51:18.302832",
+    "last_login": null
+  }
+}
